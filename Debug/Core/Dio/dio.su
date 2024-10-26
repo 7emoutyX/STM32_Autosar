@@ -1,0 +1,4 @@
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	24	static
+../Core/Dio/dio.c:4:6:Dio_Init	40	static
+../Core/Dio/dio.c:32:15:Dio_ReadChannel	16	static
+../Core/Dio/dio.c:37:6:Dio_WriteChannel	16	static

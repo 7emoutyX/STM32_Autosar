@@ -1,0 +1,4 @@
+../Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h:539:22:LL_AHB2_GRP1_EnableClock	1
+../Core/Dio/dio.c:4:6:Dio_Init	7
+../Core/Dio/dio.c:32:15:Dio_ReadChannel	1
+../Core/Dio/dio.c:37:6:Dio_WriteChannel	1
